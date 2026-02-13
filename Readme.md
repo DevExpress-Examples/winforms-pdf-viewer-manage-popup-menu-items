@@ -28,7 +28,7 @@ To hide a popup menu, clear all items from the bar item link collection. To remo
 * [How to: Customize Popup Menus in the PDF Viewer](https://docs.devexpress.com/WindowsForms/115320/controls-and-libraries/pdf-viewer/examples/customization/how-to-customize-the-popup-menu)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pdf-viewer-manage-popup-menu-items&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pdf-viewer-manage-popup-menu-items&~~~was_helpful=no)
 
